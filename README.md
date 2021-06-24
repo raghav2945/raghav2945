@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raghwendra Singh
 - 👀 I’m interested in software development. 
 - 🌱 I’m currently learning game development and kotlin
-- 💞️ I’m looking to collaborate on a product which modular bring changes to people life.
+- 💞️ I’m looking to collaborate on a product which bring changes to people life.
 - 📫 How to reach me, sent me an email raghav.2945@gmail.com
 
 <!---
